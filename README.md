@@ -35,6 +35,7 @@ All sensitive/internal server information has been removed before publication.
 ## Files
 
 * `setup-guide.pdf` → Full installation and configuration guide
+* README.md # Repository overview
 
 
 © 2025 Kusum Katwal
