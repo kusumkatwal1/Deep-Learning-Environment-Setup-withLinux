@@ -18,11 +18,11 @@ A complete setup guide for configuring a Linux-based deep learning environment u
     - PyTorch installation
     - TensorFlow/Keras setup
     - Jupyter Notebook configuration
-    * Remote SSH tunneling for Jupyter access
-    * Multi-user environment setup
-    * GPU environment preparation
-    * Package dependency management
-    * Remote development workflow setup
+    - Remote SSH tunneling for Jupyter access
+    - Multi-user environment setup
+    - GPU environment preparation
+    - Package dependency management
+    - Remote development workflow setup
 
 
 ## Purpose
