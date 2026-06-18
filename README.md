@@ -26,8 +26,8 @@ A complete setup guide for configuring a Linux-based deep learning environment u
 
 
 ## Purpose
-This repository documents the setup and workflow practices I worked on during my summer university technical work experience.
-All sensitive/internal server information has been removed before publication.
+    This repository documents the setup and workflow practices I worked on during my summer university technical work experience.
+    All sensitive/internal server information has been removed before publication.
 
 ## Files
     - "setup-guide.pdf" → Full installation and configuration guide
