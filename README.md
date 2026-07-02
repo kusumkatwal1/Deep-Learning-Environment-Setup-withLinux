@@ -7,9 +7,9 @@ A complete setup guide for configuring a Linux-based deep learning environment u
     - PyTorch
     - TensorFlow
     - Jupyter Notebook
-    * SSH
-    * CUDA (GPU setup)
-    * Package and Environment Management(pip, venv)
+    - SSH
+    - CUDA (GPU setup)
+    - Package and Environment Management(pip, venv)
   
 ## Features
     - Linux environment setup
